@@ -1,0 +1,5 @@
+{
+  "name": "TestPlayground",
+  "description": "A simple static website designed for Selenium testing practice, featuring basic UI components like navigation, forms, tables, and a right-click context menu.",
+  "requestFramePermissions": []
+}
